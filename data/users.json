@@ -1,0 +1,52 @@
+{ 
+    "_id" : "jane", 
+    "joined" : ISODate("2011-03-02T00:00:00.000+0000"), 
+    "likes" : [
+        "golf", 
+        "racquetball"
+    ]
+}
+{ 
+    "_id" : "joe", 
+    "joined" : ISODate("2012-07-02T00:00:00.000+0000"), 
+    "likes" : [
+        "tennis", 
+        "golf", 
+        "swimming"
+    ]
+}
+{ 
+    "_id" : "jill", 
+    "joined" : ISODate("2012-09-02T00:00:00.000+0000"), 
+    "likes" : [
+        "golf", 
+        "racquetball"
+    ]
+}
+{ 
+    "_id" : "ruth", 
+    "joined" : ISODate("2011-01-12T00:00:00.000+0000"), 
+    "likes" : [
+        "swimming", 
+        "golf", 
+        "racquetball"
+    ]
+}
+{ 
+    "_id" : "kate", 
+    "joined" : ISODate("2012-01-23T00:00:00.000+0000"), 
+    "likes" : [
+        "tennis", 
+        "darts"
+    ]
+}
+{ 
+    "_id" : "harold", 
+    "joined" : ISODate("2012-01-15T00:00:00.000+0000"), 
+    "likes" : [
+        "golf", 
+        "basketball", 
+        "darts", 
+        "tennis"
+    ]
+}
