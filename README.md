@@ -8,3 +8,7 @@
 - **Graph Databases with Neo4J**
 
 <img src="https://www.bloorresearch.com/wp-content/uploads/2012/12/neo4j-x.png"  width="200"/>
+
+- **Advanced SQL Server Performance with SQL Server 2019**
+
+<img src="https://aleson-itc.com/wp-content/uploads/2020/03/sql-server-2019.png"  width="200"/>
